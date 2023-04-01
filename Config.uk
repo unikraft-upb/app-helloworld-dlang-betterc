@@ -1,0 +1,4 @@
+### Invisible option for dependencies
+config APPHELLOWORLD_DEPENDENCIES
+	bool
+	default y
